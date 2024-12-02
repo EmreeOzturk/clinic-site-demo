@@ -1,0 +1,65 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+/vendor
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+/out
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Media and large files
+*.mp4
+*.mov
+*.wmv
+*.zip
+*.tar.gz
+
+# Cache directories
+.cache/
+.next/
+.nuxt/
+.temp/
+.cursorrules
+# Optional: Database files
+*.sqlite
+*.db
+
+# Optional: Backup files
+*.bak
+*.backup
+*~
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
